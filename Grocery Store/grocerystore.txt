@@ -1,0 +1,3 @@
+Banana: $0.25
+Cabbage: $0.60
+Pepperoni Pizza: $7.25
